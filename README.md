@@ -1,1 +1,2 @@
-<button type="reset" class="btn btn-primary col-4">registrate</button>
+melanie fernanda pedroza infante 
+(el archivo no se queria subir asta ahorita)
